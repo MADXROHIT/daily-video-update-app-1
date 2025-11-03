@@ -1,8 +1,7 @@
 Lecture 1
-https://www.youtube.com/watch?v=abc123XYZ
-
+https://youtu.be/xKguV7fHuH8?si=WokOeOL4aEsY5pZx
 Lecture 2
-https://www.youtube.com/watch?v=def456LMN
+https://youtu.be/xKguV7fHuH8?si=cpp1vfVDHsobaEDp
 
 Lecture 3
 https://www.youtube.com/watch?v=ghi789OPQ
